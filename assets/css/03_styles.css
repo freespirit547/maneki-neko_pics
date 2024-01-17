@@ -1,0 +1,19 @@
+@font-face {
+        font-family: 'Nunito';
+        src: url('assets\fonts\Nunito\Nunito-VariableFont_wght.ttf') format('ttf');
+
+}
+
+
+body {
+        background-color: #FFF9DF;
+        font-family: 'Nunito', Arial, Helvetica, sans-serif;
+}
+
+nav {
+        background-color: #FFDE59;
+}
+
+footer {
+        background-color: #FFDE59;
+}
